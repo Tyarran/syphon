@@ -18,6 +18,7 @@ setup(name='syphon',
       zip_safe=False,
       install_requires=[
           # -*- Extra requirements: -*-
+          "zope.component==4.2.2",
       ],
       entry_points="""\
       # -*- Entry points: -*-
